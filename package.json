@@ -12,6 +12,10 @@
   "author": "pavlovdog_ <pavlovdog.moscow@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "locklift": "^1.1.7"
+    "bignumber.js": "^9.0.1",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "locklift": "^1.1.7",
+    "mocha-logger": "^1.0.7"
   }
 }
